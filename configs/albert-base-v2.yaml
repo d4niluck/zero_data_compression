@@ -1,0 +1,8 @@
+model: "albert-base-v2"
+dataset: "imdb"
+device: "cpu"
+seeds:
+  - 5
+  - 50
+  - 505
+

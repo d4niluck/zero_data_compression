@@ -1,1 +1,1 @@
-# zer_data_compression
+# Zero-data compression (ZDC)

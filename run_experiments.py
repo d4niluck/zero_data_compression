@@ -11,8 +11,8 @@ import psutil
 import platform
 
 
-TELEGRAM_BOT_TOKEN = "6586847284:AAG0vs9D0S5TES04HVwvN7tbz9-TgRcOz64"
-TELEGRAM_CHAT_ID = "697505256"   
+TELEGRAM_BOT_TOKEN = ""
+TELEGRAM_CHAT_ID = ""   
 TELEGRAM_API_URL = f"https://api.telegram.org/bot{TELEGRAM_BOT_TOKEN}/sendMessage"
 
 BASE_CONFIGS = [

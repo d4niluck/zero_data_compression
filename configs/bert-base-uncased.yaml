@@ -1,0 +1,24 @@
+model: "bert-base-uncased"
+dataset: "imdb"  # bookcorpus imdb
+device: "cpu"
+seeds:
+  - 5
+  - 50
+  - 505
+
+
+
+
+
+
+
+
+# bert-base-uncased
+# bert-large-cased
+# roberta-base
+# roberta-large
+# distilbert-base-uncased
+# albert-base-v2
+# electra-base-discriminator
+# MiniLM
+# TinyBERT

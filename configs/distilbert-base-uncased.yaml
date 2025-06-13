@@ -1,0 +1,7 @@
+model: "distilbert-base-uncased"
+dataset: "imdb"  # bookcorpus imdb
+device: "cpu"
+seeds:
+  - 5
+  - 50
+  - 505
